@@ -1,7 +1,7 @@
 {
-  "version": "2.3.0",
+  "version": "2.3.1",
   "url": "https://github.com/caine777-data/podteleverseur-releases/releases/latest",
-  "notes": "mise_a_jour_obligatoire",
-  "version_minimale": "2.3.0",
-  "obligatoire": true
+  "notes": "Nouvelle version disponible.",
+  "version_minimale": "",
+  "obligatoire": false
 }
