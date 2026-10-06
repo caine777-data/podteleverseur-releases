@@ -1,7 +1,7 @@
 {
-  "version": "2.3.2",
+  "version": "3.4.2",
   "url": "https://github.com/caine777-data/podteleverseur-releases/releases/latest",
-  "notes": "MAJ_obligatoire",
-  "version_minimale": "2.3.2",
-  "obligatoire": true
+  "notes": "ajout de l'onglet vidéo+identifiant log_in",
+  "version_minimale": "",
+  "obligatoire": false
 }
